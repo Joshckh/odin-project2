@@ -15,3 +15,10 @@ Complete top of page
 -fill top of page with contents
 -add png to make it match on the right
 -change all links to rick roll
+
+3rd Commit
+Complete Mid
+
+-add margin for both button and h2 of top
+-complete mid section
+-add 4 photos for the current iteration
