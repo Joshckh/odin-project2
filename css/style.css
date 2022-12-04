@@ -123,6 +123,7 @@ h1{
     flex-direction: column;
     padding-left: 120px;
     padding-right:120px;
+    padding-bottom:30px;
 }
 
 .quote p{
@@ -136,4 +137,44 @@ h1{
     align-self: flex-end;
     font-weight:bold;
     font-size:23px;
+}
+
+.bottom{
+ padding:60px;
+}
+
+.btm-cont{
+    display:flex;
+    background-color: #3882f6; 
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.btm-cont .msg{
+    color: white;
+}
+
+.msg h3{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.msg p{
+    margin-top: 0px;
+    padding-top: 0px;
+    color:#e4e4e4;
+}
+
+.btm-cont button{
+    background-color: #3882f6;
+    width:110px;
+    height:30px;
+    border-radius: 8px;
+    align-items: center;
+    color:white;
+    border:solid white 2px;
+    margin-bottom:8px;
+    font-weight: bold;
+    font-size: 15px;
 }

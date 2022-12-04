@@ -23,8 +23,14 @@ Complete Mid
 -complete mid section
 -add 4 photos for the current iteration
 
-4th Coomit
+4th Commit
 Complete quote
 
 -add quote by forest gump
 -change background color for quote section
+
+5th Commit
+Complete Bottom
+
+-add bottom padding for quote section
+-complete bottom fill with information
