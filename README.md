@@ -22,3 +22,9 @@ Complete Mid
 -add margin for both button and h2 of top
 -complete mid section
 -add 4 photos for the current iteration
+
+4th Coomit
+Complete quote
+
+-add quote by forest gump
+-change background color for quote section
