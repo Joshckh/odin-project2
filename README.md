@@ -34,3 +34,9 @@ Complete Bottom
 
 -add bottom padding for quote section
 -complete bottom fill with information
+
+6th Commit
+Complete Footer
+
+-finish footer
+-Joshua Chua Kah Hian
